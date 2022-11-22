@@ -423,7 +423,7 @@ hr{
 }
 .d16{
     height: 620px;
-    width: 1350px;
+    width: 100%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -532,7 +532,7 @@ h5{
 }
 .d27{
     height: 1100px;
-    width: 1390px;
+    width: 100%;
     background-color: rgb(242,184,45);
     margin-top: 130px;
 }
@@ -601,7 +601,7 @@ h5{
 }
 .d30{
 height: 750px;
-width: 1390px;
+width: 100%;
 background-color: black;
 position: inherit;
 }
